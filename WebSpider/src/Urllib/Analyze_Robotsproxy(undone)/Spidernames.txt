@@ -1,0 +1,6 @@
+BaiduSpider 百度 www.baidu.com
+Googlebot   谷歌 www.google.com
+360Spider   360搜索 www.so.com
+YodaoBot    有道 www.youdao.com
+ia_achiver  Alex www.alexa.cn
+Scooter     altavista www.altavista.com
